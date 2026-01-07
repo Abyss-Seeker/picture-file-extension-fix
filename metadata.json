@@ -1,0 +1,5 @@
+{
+  "name": "Image Format Fixer",
+  "description": "A local utility tool that scans a folder, detects the true format of image files (Magic Numbers), corrects extensions (e.g., renaming a hidden GIF from .jpg to .gif), and creates a corrected ZIP archive.",
+  "requestFramePermissions": []
+}
